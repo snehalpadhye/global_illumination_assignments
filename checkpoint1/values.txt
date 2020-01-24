@@ -6,4 +6,4 @@ The scene parameters (all in units with respect to world coordinate system) foun
 4. Light Source: Location: (-4, 8, 10)
 5. Camera: Location: (-1, 5, 15), FOV: 45 degrees, near plane = 0.1, far plane = 100
 
-Note: Location and rotation is in (x, y, z) format.
+Note: Location and rotation are in (x, y, z) format.
